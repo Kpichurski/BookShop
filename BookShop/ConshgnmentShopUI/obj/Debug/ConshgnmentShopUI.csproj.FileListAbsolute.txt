@@ -11,3 +11,17 @@ C:\Users\kamil\source\repos\ConshgnmentShop\ConshgnmentShopUI\obj\Debug\Conshgnm
 C:\Users\kamil\source\repos\ConshgnmentShop\ConshgnmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
 C:\Users\kamil\source\repos\ConshgnmentShop\ConshgnmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
 C:\Users\kamil\source\repos\ConshgnmentShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.UserControl1.resources
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\bin\Debug\ConshgnmentShopUI.exe.config
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\bin\Debug\ConshgnmentShopUI.exe
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\bin\Debug\ConshgnmentShopUI.pdb
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csprojResolveAssemblyReference.cache
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.ConsignmentShop.resources
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.Properties.Resources.resources
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.UserControl1.resources
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csproj.GenerateResource.Cache
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.exe
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.pdb
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.UserControl2.resources
