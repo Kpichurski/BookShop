@@ -1,6 +1,6 @@
 ﻿namespace ConshgnmentShopUI
 {
-    partial class UserControl2
+    partial class Books
     {
         /// <summary> 
         /// Wymagana zmienna projektanta.
@@ -30,12 +30,12 @@
         {
             this.SuspendLayout();
             // 
-            // UserControl2
+            // Book
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Name = "UserControl2";
-            this.Size = new System.Drawing.Size(801, 597);
+            this.Name = "Book";
+            this.Size = new System.Drawing.Size(875, 751);
             this.ResumeLayout(false);
 
         }

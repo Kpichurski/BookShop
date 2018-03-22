@@ -24,4 +24,5 @@ C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentS
 C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csproj.CoreCompileInputs.cache
 C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.exe
 C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.pdb
-C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.UserControl2.resources
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.ControlBook.resources
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.Books.resources

@@ -35,7 +35,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.userControl11 = new ConshgnmentShopUI.UserControl1();
-            this.control2 = new ConshgnmentShopUI.UserControl2();
+            this.books1 = new ConshgnmentShopUI.Books();
             this.PanelFront.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -119,20 +119,21 @@
             this.userControl11.TabIndex = 16;
             this.userControl11.Load += new System.EventHandler(this.userControl11_Load);
             // 
-            // control2
+            // books1
             // 
-            this.control2.Location = new System.Drawing.Point(314, 14);
-            this.control2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.control2.Name = "control2";
-            this.control2.Size = new System.Drawing.Size(801, 597);
-            this.control2.TabIndex = 17;
+            this.books1.AutoScroll = true;
+            this.books1.Location = new System.Drawing.Point(193, -17);
+            this.books1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.books1.Name = "books1";
+            this.books1.Size = new System.Drawing.Size(1150, 751);
+            this.books1.TabIndex = 2;
             // 
             // ConsignmentShop
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1407, 921);
-            this.Controls.Add(this.control2);
+            this.ClientSize = new System.Drawing.Size(1405, 921);
+            this.Controls.Add(this.books1);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.PanelFront);
             this.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -154,7 +155,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private UserControl1 userControl11;
-        private UserControl2 control2;
+        private Books books1;
     }
 }
 
