@@ -9,3 +9,4 @@ C:\Users\kamil\Desktop\projekt\BookShop\ConsignmentShopLibrary\bin\Debug\Consign
 C:\Users\kamil\Desktop\projekt\BookShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
 C:\Users\kamil\Desktop\projekt\BookShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
 C:\Users\kamil\Desktop\projekt\BookShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
+C:\Users\kamil\Desktop\projekt\BookShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache

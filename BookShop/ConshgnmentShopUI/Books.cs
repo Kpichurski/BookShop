@@ -28,7 +28,7 @@ namespace ConshgnmentShopUI
                 if (sum <= 2)
                 {
                     Controls.Add(new ControlBook(varX,varY,Item));
-                    varX += 180;
+                    varX += 140;
                     sum++;
                 }
               if (sum == 3)
@@ -56,6 +56,9 @@ namespace ConshgnmentShopUI
             store.Items.Add(new Item { Title = "tale", Decription = "cc", Price = 6.50M, Owner = store.Vendors[0] });
             store.Items.Add(new Item { Title = "moby dikens", Decription = "aaa", Price = 4.50M, Owner = store.Vendors[0] });
             store.Items.Add(new Item { Title = "harry", Decription = "BB", Price = 5.50M, Owner = store.Vendors[1] });
+            store.Items.Add(new Item { Title = "moby dikens", Decription = "aaa", Price = 4.50M, Owner = store.Vendors[0] });
+            store.Items.Add(new Item { Title = "harry", Decription = "BB", Price = 5.50M, Owner = store.Vendors[1] });
+            store.Items.Add(new Item { Title = "tale", Decription = "cc", Price = 6.50M, Owner = store.Vendors[0] });
             store.Items.Add(new Item { Title = "tale", Decription = "cc", Price = 6.50M, Owner = store.Vendors[0] });
 
         }

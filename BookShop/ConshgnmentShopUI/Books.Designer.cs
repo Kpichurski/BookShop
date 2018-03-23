@@ -30,11 +30,12 @@
         {
             this.SuspendLayout();
             // 
-            // Book
+            // Books
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Name = "Book";
+            this.AutoScroll = true;
+            this.Name = "Books";
             this.Size = new System.Drawing.Size(875, 751);
             this.ResumeLayout(false);
 

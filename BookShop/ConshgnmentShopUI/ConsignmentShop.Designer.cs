@@ -50,7 +50,7 @@
             this.PanelFront.Dock = System.Windows.Forms.DockStyle.Left;
             this.PanelFront.Location = new System.Drawing.Point(0, 0);
             this.PanelFront.Name = "PanelFront";
-            this.PanelFront.Size = new System.Drawing.Size(200, 921);
+            this.PanelFront.Size = new System.Drawing.Size(200, 869);
             this.PanelFront.TabIndex = 15;
             // 
             // button5
@@ -122,17 +122,17 @@
             // books1
             // 
             this.books1.AutoScroll = true;
-            this.books1.Location = new System.Drawing.Point(193, -17);
+            this.books1.Location = new System.Drawing.Point(207, 0);
             this.books1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.books1.Name = "books1";
-            this.books1.Size = new System.Drawing.Size(1150, 751);
+            this.books1.Size = new System.Drawing.Size(901, 873);
             this.books1.TabIndex = 2;
             // 
             // ConsignmentShop
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1405, 921);
+            this.ClientSize = new System.Drawing.Size(1107, 869);
             this.Controls.Add(this.books1);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.PanelFront);
