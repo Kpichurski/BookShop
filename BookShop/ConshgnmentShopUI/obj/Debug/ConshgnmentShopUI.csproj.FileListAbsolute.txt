@@ -24,6 +24,22 @@ C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentS
 C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csproj.CoreCompileInputs.cache
 C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.exe
 C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.pdb
-C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.Books.resources
 C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.ControlBook.resources
-C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.Resources.Resource1.resources
+C:\Users\kamil\Desktop\projekt\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.Books.resources
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\bin\Debug\ConshgnmentShopUI.exe.config
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\bin\Debug\ConshgnmentShopUI.exe
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\bin\Debug\ConshgnmentShopUI.pdb
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csprojResolveAssemblyReference.cache
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.Books.resources
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.ConsignmentShop.resources
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.Properties.Resources.resources
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.UserControl1.resources
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.ControlBook.resources
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csproj.GenerateResource.Cache
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.exe
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.pdb
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.ShoppingCartControl.resources
+C:\Users\kamil\Desktop\projekt\Nowy folder\BookShop\BookShop\ConshgnmentShopUI\obj\Debug\ConshgnmentShopUI.SingleBookShopping.resources

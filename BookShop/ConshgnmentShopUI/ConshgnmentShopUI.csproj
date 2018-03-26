@@ -57,23 +57,19 @@
     <Compile Include="ConsignmentShop.Designer.cs">
       <DependentUpon>ConsignmentShop.cs</DependentUpon>
     </Compile>
-    <Compile Include="ControlBook.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="ControlBook.Designer.cs">
-      <DependentUpon>ControlBook.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ControlBook1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ControlBook.resx</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Resources\Resource1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resource1.resx</DependentUpon>
+    <Compile Include="ShoppingCartControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShoppingCartControl.Designer.cs">
+      <DependentUpon>ShoppingCartControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SingleBookShopping.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SingleBookShopping.Designer.cs">
+      <DependentUpon>SingleBookShopping.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControl1.cs">
       <SubType>UserControl</SubType>
@@ -81,18 +77,17 @@
     <Compile Include="UserControl1.Designer.cs">
       <DependentUpon>UserControl1.cs</DependentUpon>
     </Compile>
+    <Compile Include="ControlBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlBook.Designer.cs">
+      <DependentUpon>ControlBook.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Books.resx">
       <DependentUpon>Books.cs</DependentUpon>
-      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="ConsignmentShop.resx">
       <DependentUpon>ConsignmentShop.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ControlBook.resx">
-      <DependentUpon>ControlBook.cs</DependentUpon>
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>ControlBook1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -102,13 +97,19 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Resources\Resource1.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    <EmbeddedResource Include="ShoppingCartControl.resx">
+      <DependentUpon>ShoppingCartControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SingleBookShopping.resx">
+      <DependentUpon>SingleBookShopping.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControl1.resx">
       <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlBook.resx">
+      <DependentUpon>ControlBook.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -128,6 +129,9 @@
       <Project>{31d062f7-4690-45a4-a95a-07856b2d4b78}</Project>
       <Name>ConsignmentShopLibrary</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acc123.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

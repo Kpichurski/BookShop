@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsignmentShopLibrary
 {
-    public class Store
+    public partial class Store
     {
         public string Name { get; set; }
         public List<Vendor> Vendors{ get; set; }

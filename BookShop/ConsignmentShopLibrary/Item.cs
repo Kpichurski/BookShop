@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsignmentShopLibrary
 {
-    public class Item
+    public partial  class Item
     {
         public string Title { get; set; }
-        public string Decription  { get; set; }
+        public string Decription { get; set; }
+        public int Index { get; set; }
         public decimal Price { get; set; }
         public bool Sold { get; set; }
         public bool PaymentDistributed { get; set; }

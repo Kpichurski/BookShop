@@ -34,14 +34,16 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.userControl11 = new ConshgnmentShopUI.UserControl1();
             this.books1 = new ConshgnmentShopUI.Books();
+            this.shoppingCartControl1 = new ConshgnmentShopUI.ShoppingCartControl();
+            this.labelcount = new System.Windows.Forms.Label();
             this.PanelFront.SuspendLayout();
             this.SuspendLayout();
             // 
             // PanelFront
             // 
             this.PanelFront.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.PanelFront.Controls.Add(this.labelcount);
             this.PanelFront.Controls.Add(this.button5);
             this.PanelFront.Controls.Add(this.button4);
             this.PanelFront.Controls.Add(this.button3);
@@ -50,7 +52,7 @@
             this.PanelFront.Dock = System.Windows.Forms.DockStyle.Left;
             this.PanelFront.Location = new System.Drawing.Point(0, 0);
             this.PanelFront.Name = "PanelFront";
-            this.PanelFront.Size = new System.Drawing.Size(200, 869);
+            this.PanelFront.Size = new System.Drawing.Size(200, 638);
             this.PanelFront.TabIndex = 15;
             // 
             // button5
@@ -74,6 +76,7 @@
             this.button4.TabIndex = 3;
             this.button4.Text = "button4";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -110,38 +113,47 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
-            // userControl11
-            // 
-            this.userControl11.Location = new System.Drawing.Point(207, 0);
-            this.userControl11.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(1147, 734);
-            this.userControl11.TabIndex = 16;
-            this.userControl11.Load += new System.EventHandler(this.userControl11_Load);
-            // 
             // books1
             // 
             this.books1.AutoScroll = true;
-            this.books1.Location = new System.Drawing.Point(207, 0);
-            this.books1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.books1.Location = new System.Drawing.Point(196, 0);
             this.books1.Name = "books1";
-            this.books1.Size = new System.Drawing.Size(901, 873);
+            this.books1.Size = new System.Drawing.Size(939, 638);
             this.books1.TabIndex = 2;
+            // 
+            // shoppingCartControl1
+            // 
+            this.shoppingCartControl1.AutoScroll = true;
+            this.shoppingCartControl1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.shoppingCartControl1.Location = new System.Drawing.Point(196, 0);
+            this.shoppingCartControl1.Name = "shoppingCartControl1";
+            this.shoppingCartControl1.Size = new System.Drawing.Size(930, 638);
+            this.shoppingCartControl1.TabIndex = 17;
+            // 
+            // labelcount
+            // 
+            this.labelcount.AutoSize = true;
+            this.labelcount.Location = new System.Drawing.Point(129, 255);
+            this.labelcount.Name = "labelcount";
+            this.labelcount.Size = new System.Drawing.Size(18, 20);
+            this.labelcount.TabIndex = 18;
+            this.labelcount.Text = "0";
             // 
             // ConsignmentShop
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1107, 869);
-            this.Controls.Add(this.books1);
-            this.Controls.Add(this.userControl11);
+            this.ClientSize = new System.Drawing.Size(1138, 638);
             this.Controls.Add(this.PanelFront);
+            this.Controls.Add(this.books1);
+            this.Controls.Add(this.shoppingCartControl1);
             this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "ConsignmentShop";
             this.Text = "ConsignmentShop";
             this.PanelFront.ResumeLayout(false);
+            this.PanelFront.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -154,8 +166,9 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-        private UserControl1 userControl11;
         private Books books1;
+        private ShoppingCartControl shoppingCartControl1;
+        private System.Windows.Forms.Label labelcount;
     }
 }
 

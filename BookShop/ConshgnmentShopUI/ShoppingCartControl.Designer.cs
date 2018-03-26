@@ -1,6 +1,6 @@
 ﻿namespace ConshgnmentShopUI
 {
-    partial class Books
+    partial class ShoppingCartControl
     {
         /// <summary> 
         /// Wymagana zmienna projektanta.
@@ -30,12 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Book
+            // ShoppingCartControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Name = "Book";
-            this.Size = new System.Drawing.Size(875, 751);
+            this.AutoScroll = true;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.Name = "ShoppingCartControl";
+            this.Size = new System.Drawing.Size(765, 577);
             this.ResumeLayout(false);
 
         }
